@@ -1,0 +1,14 @@
+.navlink{
+    color:#3E9C87;
+    margin:0 0.75rem;
+    font-size: medium;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    opacity: 0.8;
+    outline: none;
+
+}
+.navlink:hover{
+    opacity: 1;
+
+}
