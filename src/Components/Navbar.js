@@ -24,11 +24,12 @@ export class Navbar extends Component {
             <NavLink to="/" className="navlink">
               About
             </NavLink>
-            <NavLink to="/contact" className="navlink">
-              Contact
-            </NavLink>
+
             <NavLink to="/projects" className="navlink">
               Projects
+            </NavLink>
+            <NavLink to="/contact" className="navlink">
+              Contact
             </NavLink>
           </div>
         </div>

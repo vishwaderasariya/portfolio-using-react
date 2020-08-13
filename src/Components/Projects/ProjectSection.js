@@ -53,7 +53,7 @@ function ProjectSection() {
             plugin.
           </Typography>
         </div>
-      
+
         <div
           style={{
             minHeight: "75vh",
