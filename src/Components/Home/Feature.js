@@ -21,15 +21,15 @@ const Feature = () => {
             color: "#3E9C87",
           }}
         >
-          Hi,
+          Hey there,
         </p>
         <Card
           style={{ fontFamily: "Courgette", fontSize: "25px" }}
           bordered={false}
         >
           <Typography.Text>
-            I'm a Computer science student by profession. I am a curious web
-            designer living and learning in navsari.
+            I'm a computer science student studying at Uka tarsadia university. I love meeting people.I like to keep my self busy 
+             
           </Typography.Text>
         </Card>
       </div>

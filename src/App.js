@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 import Home from "./Pages/Home";
 import Projects from "./Pages/Projects";
 import Contact from "./Pages/Contact";
@@ -12,7 +12,6 @@ function App() {
         <Route path="/" component={Home} exact />
         <Route path="/contact" component={Contact} exact />
         <Route path="/projects" component={Projects} exact />
-        
       </BrowserRouter>
     </div>
   );
