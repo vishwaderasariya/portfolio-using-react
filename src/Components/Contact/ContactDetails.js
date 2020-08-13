@@ -6,7 +6,6 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
-import Grid from "@material-ui/core/Grid";
 import Link from "@material-ui/core/Link";
 import ListItemText from "@material-ui/core/ListItemText";
 import Layout from "../../Layout";
